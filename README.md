@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 - 🧑🏻‍💻 &ensp; I'm a Software Engineer.
 - 🛠 &ensp; Deeply interested in highly concurrent and distributed environments, reactive and event-driven architecture, performance and resiliency.
