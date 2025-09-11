@@ -4,4 +4,5 @@
 - ∞  &ensp; Driven by bridging gaps and eager to reshape the spacetime.
 - 💡 &ensp; Deeply interested in the intersection between AI, Software & Data Engineering and Collaborative Creativity.
 - 🛠 &ensp; Passionate about Generative AI, highly concurrent and distributed systems and event-driven architecture.
+- 🛠 &ensp; Building [Autobox](https://github.com/Autobox-AI).
 - 📫 &ensp; Check out: [margostino.com](https://margostino.com)
